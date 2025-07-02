@@ -38,6 +38,12 @@ task6/
 
 ---
 
+🖼️Screenshots
+
+![Screenshot 2025-07-02 215755](https://github.com/user-attachments/assets/480211ed-aff6-48c0-b7c1-57d1b7851678)
+
+---
+
 ## 🧪 Test Cases
 
 - Empty input fields
